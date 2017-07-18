@@ -7,7 +7,6 @@
 <title></title>
 </head>
 <body>
-	<h2>수정수정수정수수수정</h2>
-	<h1>아리ㅗ이ㅏㅓㄹ</h1>
+	<h2>test.jsp야야야야야</h2>
 </body>
 </html>
